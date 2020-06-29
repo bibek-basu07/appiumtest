@@ -1,0 +1,18 @@
+<testData>
+    <signIn>
+        <user>tester.qa@gmail.com</user>
+        <password>Tester@123</password>
+    </signIn>
+    <productPurchase>
+        <productName>65 Inch TV</productName>
+    </productPurchase>
+    <personalUserRegistration>
+        <firstName> Tester </firstName>
+        <lastName> Qa </lastName>
+        <email>tester.qa@gmail.com</email>
+        <password> Tester@123</password>
+    </personalUserRegistration>
+    <ScreenOrientation> ScreenOrientation.Potrait</ScreenOrientation>
+    <WindowSizeWidth>10</WindowSizeWidth>
+    <WindowSizeHeight>10</WindowSizeHeight>
+</testData>
